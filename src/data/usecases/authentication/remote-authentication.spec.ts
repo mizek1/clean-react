@@ -1,4 +1,3 @@
-import { HttpPostClient } from 'data/protocols/http/http-post-client';
 import { HttpPostClientSpy } from '../../test/mock-http-client';
 import { RemoteAuthentication } from './remote-authentication';
 
